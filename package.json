@@ -1,0 +1,15 @@
+{
+  "name": "com.glen.unity_extension_methods",
+  "version": "1.0.0",
+  "displayName": "Unity Extension Methods",
+  "description": "A bunch of helpful extension methods.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [],
+  "author": {
+    "name": "Glen Morrison",
+    "email": "morrison.bruce.glen@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "hideInEditor": false
+}
