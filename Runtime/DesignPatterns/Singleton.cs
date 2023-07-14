@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-namespace TigerMoon.DesignPatterns
+namespace TigerMoon
 {
     public class Singleton<T> : MonoBehaviour where T : class
     {

@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using UnityEngine;
 using TigerMoon;
 
-namespace TigerMoon.Behaviours
+namespace TigerMoon
 {
     /// <summary>
     /// Temporarily flashes white when damage is taken.
